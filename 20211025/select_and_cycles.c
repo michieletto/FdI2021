@@ -27,7 +27,7 @@ int main()
     enum {
         MAX_ROWS = 24,
         MAX_COLS = 80,
-    }
+    };
 
     enum answer { YES, NO };
     enum answer result = NO;
@@ -121,23 +121,23 @@ int main()
 
     // <espressione> ? <azione_true> : <azione_false>;
 
-    while (<condizione>) {
-        <istruzione>;
-    }
+    // while (<condizione>) {
+    //     <istruzione>;
+    // }
 
-    do {
-        <istruzioni>;
-    } while (<condizione>);
+    // do {
+    //     <istruzioni>;
+    // } while (<condizione>);
 
-    for (<istruzione1>; <condizione>;<istruzione2>)
-        <istruzione>;
+    // for (<istruzione1>; <condizione>;<istruzione2>)
+    //     <istruzione>;
         
-    for (<istruzione1>; <condizione>;<istruzione2>)
-    {
-        <istruzione1>;
-        <istruzione2>;
-        ...
-    }
+    // for (<istruzione1>; <condizione>;<istruzione2>)
+    // {
+    //     <istruzione1>;
+    //     <istruzione2>;
+    //     ...
+    // }
 
 
 
