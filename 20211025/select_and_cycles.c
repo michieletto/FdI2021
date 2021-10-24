@@ -130,15 +130,27 @@ int main()
     // } while (<condizione>);
 
     // for (<istruzione1>; <condizione>;<istruzione2>)
-    //     <istruzione>;
+    //     <istruzione_ciclo>;
         
     // for (<istruzione1>; <condizione>;<istruzione2>)
     // {
-    //     <istruzione1>;
-    //     <istruzione2>;
+    //     <istruzione_ciclo1>;
+    //     <istruzione_ciclo2>;
     //     ...
     // }
 
-
+    // switch (<espressione intera>)
+	// {
+    //     case val1:
+    //         <istruzioni1>
+    //         break;
+    //     case val2:  
+    //     case val3:
+    //         <istruzioni2>
+    //         break;
+    //     default:
+    //         <istruzioni3>
+    //         break;
+    // }
 
 }
