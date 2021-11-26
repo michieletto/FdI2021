@@ -6,6 +6,12 @@
  * 
  */
 typedef enum {
+    PAWN = 0,
+    BISHOP,
+    KNIGHT,
+    ROOK,
+    QUEEN,
+    KING,
 } ChessPiece;
 
 /**
